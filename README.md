@@ -7,3 +7,4 @@ Anisotropy /ˌænaɪˈsɒtrəpi/ is the property of being directionally dependen
 ----
 
 Test for git configuration.
+And EOL changes from Eclipse.
